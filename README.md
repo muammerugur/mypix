@@ -1,0 +1,2 @@
+# mypix
+bu bir denemedir
